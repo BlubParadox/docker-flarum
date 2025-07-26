@@ -46,6 +46,7 @@ RUN apk add --no-progress --no-cache \
     php8-pdo_mysql \
     php8-phar \
     php8-session \
+	php8-simplexml \
     php8-tokenizer \
     php8-xmlwriter \
     php8-zip \
