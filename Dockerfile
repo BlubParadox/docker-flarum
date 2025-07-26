@@ -49,6 +49,7 @@ RUN apk add --no-progress --no-cache \
 	php8-simplexml \
     php8-tokenizer \
     php8-xmlwriter \
+	php8-xml \
     php8-zip \
     php8-zlib \
     su-exec \
